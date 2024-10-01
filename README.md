@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="center">Get in Touch - abhinavmule13@gmail.com</h6>
+<h6 align="center">Get in Touch - narlawarshreyas@gmail.com</h6>
 
 ###
 
@@ -61,9 +61,10 @@
 <span align="left">
 <div>
  
-  <a href="https://www.linkedin.com/in/abhinav-muley-9b7215208/" target="_blank">
+ /* <a href="https://www.linkedin.com/in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
   </a>
+  */
   </div>
 </span>
 </span>
