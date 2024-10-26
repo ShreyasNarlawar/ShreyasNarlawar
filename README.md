@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">| Web Developer |</p>
+<p align="center">| A Full Stack Developer |</p>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<h4 align="left">🌟 Passionate Web Developer</h4>
+<h4 align="left">🌟 Passionate Developer</h4>
 
 ###
 
-<p align="left">self-taught web developer who loves creating cool stuff on the internet! I'm really into the latest web frameworks and making awesome user interfaces that people love to use. I'm always eager to learn new things and stay up-to-date with what's happening in the tech world. Let's build something amazing together!</p>
+<p align="left">I am a full stack developer who loves creating cool stuff on the internet! I'm really into the latest web frameworks and making awesome user interfaces and backends that people love to use. I'm always eager to learn new things and stay up-to-date with what's happening in the tech world. Let's build something amazing together!</p>
 
 ###
 
