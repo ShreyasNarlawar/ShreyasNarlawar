@@ -30,7 +30,7 @@
 
 <br clear="both">
 
-<h2 align="left">⚔ Web Development Arsenals</h2>
+<h2 align="left">⚔ Full Stack Developer Arsenals</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 <h3 align="left">IDE's</h3>
 
-<h3 align="left">web Development</h3>
+<h3 align="left">WebApp Developer</h3>
 
 ###
 
@@ -61,10 +61,9 @@
 <span align="left">
 <div>
  
- /* <a href="https://www.linkedin.com/in" target="_blank">
+  <a href=": www.linkedin.com/in/shreyas-narlawar-6b759220b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
   </a>
-  */
   </div>
 </span>
 </span>
