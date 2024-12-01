@@ -44,7 +44,7 @@
 
 ###
 
-<p align="left">FRONTEND:  ReactJS<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.
+<p align="left">Frontend:  ReactJS,HTML,CSS,Js,BootStrap <br>Backend: Java,JDBC,MVC,Spring,Hibernate,SpringBoot,Dot NET<br>DataBase: MySQL , Oracle
 
 ###
 
