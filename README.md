@@ -8,7 +8,7 @@
 
 <h6 align="center">Get in Touch - narlawarshreyas@gmail.com</h6>
 
-<h4 align="left">🌟 Passionate Developer</h4>
+<h4 align="left">🌟 Passionate Software Developer</h4>
 
 <p align="left">I am a full stack developer who loves creating cool stuff on the internet! I'm really into the latest web frameworks and making awesome user interfaces and backends that people love to use. I'm always eager to learn new things and stay up-to-date with what's happening in the tech world. Let's build something amazing together!</p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">IDE's</h3>
 
-<h3 align="left">WebApp Developer</h3>
+<h3 align="left">Full Stack Developer</h3>
 
 <p align="left">|  C, C++, Java, C# | 
 | JDBC, JSP, Servlet | 
