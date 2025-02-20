@@ -20,7 +20,12 @@
 
 <h3 align="left">WebApp Developer</h3>
 
-<p align="left">Frontend: ReactJS, HTML, CSS, JS, Bootstrap <br> Backend: Java, JDBC, MVC, Spring, Hibernate, Spring Boot, .NET <br> Database: MySQL, Oracle</p>
+<p align="left">|  C, C++, Java, C# | 
+| JDBC, JSP, Servlet | 
+| HTML, CSS, JS, jQuery, Ajax | 
+| MySQL,  MongoDB | 
+| Spring, SpringBoot, Node.js, Hibernate,ASP .Net | 
+| Basics about Git & Docker |</p>
 
 <div align="left">
     <a href="https://www.linkedin.com/in/shreyas-narlawar-6b759220b" target="_blank">
