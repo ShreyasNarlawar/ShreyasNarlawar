@@ -16,19 +16,18 @@
 
 <img align="right" height="350" src="https://github.com/Abhinav-Muley/Abhinav-Muley/blob/main/Animation%20-%201709204641157%20(1)%20(1).gif?raw=true" />
 
-<h3 align="left">IDE's</h3>
-
 <h3 align="left">Full Stack Developer</h3>
 
-<p align="left">|  C, C++, Java, C# | 
-| JDBC, JSP, Servlet | 
-| HTML, CSS, JS, jQuery, Ajax | 
-| MySQL,  MongoDB | 
-| Spring, SpringBoot, Node.js, Hibernate,ASP .Net | 
-| Basics about Git & Docker |</p>
+<h3 align="left">Technologies</h3>
+<p align="left">| C, C++, Java, C# | <br> 
+| JDBC, JSP, Servlet | <br>
+| HTML, CSS, JS, jQuery, Ajax |<br> 
+| MySQL,  MongoDB | <br>
+| Spring, SpringBoot, Node.js, Hibernate,ASP .Net | <br>
+| Basics about Git & Docker | <br></p>
 
 <div align="left">
     <a href="https://www.linkedin.com/in/shreyas-narlawar-6b759220b" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="LinkedIn logo" />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="LinkedIn logo" />Shreyas Narlawar
     </a>
 </div>
