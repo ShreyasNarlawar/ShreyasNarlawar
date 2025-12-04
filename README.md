@@ -4,7 +4,7 @@
 
 <img align="right" height="250" src="https://media.tenor.com/2vzT-8oPXl8AAAAi/tkthao219-bubududu.gif" />
 
-<p align="center">| A Full Stack Developer |</p>
+<p align="center">| Software Developer |</p>
 
 <h6 align="center">Get in Touch - narlawarshreyas@gmail.com</h6>
 
@@ -19,11 +19,10 @@
 <h3 align="left">Full Stack Developer</h3>
 
 <h3 align="left">Technologies</h3>
-<p align="left">| C, C++, Java, C# | <br> 
-| JDBC, JSP, Servlet | <br>
-| HTML, CSS, JS, jQuery, Ajax |<br> 
+<p align="left">| C, C++, Java, Swift, C# | <br> 
+| HTML, CSS, JS, jQuery |<br> 
 | MySQL,  MongoDB | <br>
-| Spring, SpringBoot, Node.js, Hibernate,ASP .Net | <br>
+| SpringBoot, Node.js, ASP .Net | <br>
 | Basics about Git & Docker | <br></p>
 
 <div align="left">
