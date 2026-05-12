@@ -1,0 +1,101 @@
+<svg width="300" height="300" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Shreyas developer avatar</title>
+<desc>Animated illustration of a developer at a laptop with floating tech stack labels</desc>
+<style>
+  .float1 { animation: float1 3s ease-in-out infinite; }
+  .float2 { animation: float2 3.5s ease-in-out infinite; }
+  .float3 { animation: float3 2.8s ease-in-out infinite; }
+  .float4 { animation: float4 4s ease-in-out infinite; }
+  .blink  { animation: blink 1.1s step-end infinite; }
+  .glow   { animation: glow 2s ease-in-out infinite; }
+  @keyframes float1 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-12px)} }
+  @keyframes float2 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-8px)} }
+  @keyframes float3 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-15px)} }
+  @keyframes float4 { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-10px)} }
+  @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+  @keyframes glow   { 0%,100%{opacity:0.5} 50%{opacity:1} }
+  .spin { animation: spin 8s linear infinite; transform-origin: 340px 260px; }
+  @keyframes spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+</style>
+
+<rect width="680" height="520" fill="#F8FAFF"/>
+<circle cx="340" cy="260" r="200" fill="#EEF2FF" opacity="0.8"/>
+<circle cx="340" cy="260" r="200" fill="none" stroke="#C7D2FE" stroke-width="0.5" stroke-dasharray="6 4" class="spin"/>
+
+<g class="float3">
+  <rect x="80" y="90" width="80" height="36" rx="8" fill="#7C3AED" opacity="0.15"/>
+  <text x="120" y="113" text-anchor="middle" font-family="monospace" font-size="13" fill="#7C3AED" font-weight="600">&lt;Swift/&gt;</text>
+</g>
+<g class="float1">
+  <rect x="480" y="75" width="80" height="36" rx="8" fill="#0891B2" opacity="0.15"/>
+  <text x="520" y="98" text-anchor="middle" font-family="monospace" font-size="13" fill="#0891B2" font-weight="600">React.js</text>
+</g>
+<g class="float2">
+  <rect x="58" y="340" width="84" height="36" rx="8" fill="#059669" opacity="0.15"/>
+  <text x="100" y="363" text-anchor="middle" font-family="monospace" font-size="13" fill="#059669" font-weight="600">Spring Boot</text>
+</g>
+<g class="float4">
+  <rect x="505" y="360" width="80" height="36" rx="8" fill="#DC2626" opacity="0.15"/>
+  <text x="545" y="383" text-anchor="middle" font-family="monospace" font-size="13" fill="#DC2626" font-weight="600">Java</text>
+</g>
+<g class="float2">
+  <rect x="162" y="152" width="76" height="32" rx="8" fill="#D97706" opacity="0.15"/>
+  <text x="200" y="173" text-anchor="middle" font-family="monospace" font-size="12" fill="#D97706" font-weight="600">Node.js</text>
+</g>
+<g class="float1">
+  <rect x="442" y="182" width="76" height="32" rx="8" fill="#7C3AED" opacity="0.12"/>
+  <text x="480" y="203" text-anchor="middle" font-family="monospace" font-size="12" fill="#7C3AED" font-weight="600">Xcode</text>
+</g>
+
+<!-- Laptop screen -->
+<rect x="210" y="280" width="260" height="160" rx="12" fill="#1E293B"/>
+<rect x="218" y="288" width="244" height="130" rx="6" fill="#0F172A"/>
+<text x="230" y="308" font-family="monospace" font-size="10" fill="#94A3B8">01</text>
+<text x="248" y="308" font-family="monospace" font-size="10" fill="#7DD3FC">func </text>
+<text x="280" y="308" font-family="monospace" font-size="10" fill="#86EFAC">buildApp</text>
+<text x="328" y="308" font-family="monospace" font-size="10" fill="#E2E8F0">() {</text>
+<text x="230" y="323" font-family="monospace" font-size="10" fill="#94A3B8">02</text>
+<text x="248" y="323" font-family="monospace" font-size="10" fill="#94A3B8">  // iOS + Full Stack</text>
+<text x="230" y="338" font-family="monospace" font-size="10" fill="#94A3B8">03</text>
+<text x="248" y="338" font-family="monospace" font-size="10" fill="#7DD3FC">  let </text>
+<text x="272" y="338" font-family="monospace" font-size="10" fill="#E2E8F0">stack = </text>
+<text x="314" y="338" font-family="monospace" font-size="10" fill="#FCA5A5">"Swift+React"</text>
+<text x="230" y="353" font-family="monospace" font-size="10" fill="#94A3B8">04</text>
+<text x="248" y="353" font-family="monospace" font-size="10" fill="#7DD3FC">  let </text>
+<text x="272" y="353" font-family="monospace" font-size="10" fill="#E2E8F0">passion = </text>
+<text x="325" y="353" font-family="monospace" font-size="10" fill="#FCA5A5">true</text>
+<text x="230" y="368" font-family="monospace" font-size="10" fill="#94A3B8">05</text>
+<text x="248" y="368" font-family="monospace" font-size="10" fill="#86EFAC" class="glow">  ship()</text>
+<text x="230" y="383" font-family="monospace" font-size="10" fill="#94A3B8">06</text>
+<text x="248" y="383" font-family="monospace" font-size="10" fill="#E2E8F0">}</text>
+<text x="400" y="390" font-family="monospace" font-size="11" fill="#4ADE80" class="blink">▌</text>
+<rect x="235" y="422" width="210" height="12" rx="3" fill="#334155"/>
+<rect x="235" y="422" width="60" height="12" rx="3" fill="#60A5FA" opacity="0.6"/>
+
+<!-- Character face -->
+<ellipse cx="340" cy="270" rx="45" ry="50" fill="#FBBF24"/>
+<ellipse cx="340" cy="258" rx="35" ry="30" fill="#F59E0B"/>
+<ellipse cx="325" cy="255" rx="6" ry="7" fill="#fff"/>
+<ellipse cx="355" cy="255" rx="6" ry="7" fill="#fff"/>
+<ellipse cx="326" cy="256" rx="3" ry="3.5" fill="#1E293B"/>
+<ellipse cx="356" cy="256" rx="3" ry="3.5" fill="#1E293B"/>
+<path d="M330 272 Q340 280 350 272" stroke="#1E293B" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+<path d="M305 240 Q320 230 340 232 Q360 230 375 240" stroke="#92400E" stroke-width="3" fill="none" stroke-linecap="round"/>
+<ellipse cx="305" cy="267" rx="8" ry="6" fill="#F59E0B"/>
+<ellipse cx="375" cy="267" rx="8" ry="6" fill="#F59E0B"/>
+
+<!-- Monitor on desk -->
+<rect x="270" y="160" width="140" height="110" rx="8" fill="#334155"/>
+<rect x="276" y="165" width="128" height="90" rx="4" fill="#1E293B"/>
+<rect x="310" y="270" width="60" height="8" rx="2" fill="#475569"/>
+<path d="M290 195 L310 195" stroke="#60A5FA" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M290 205 L325 205" stroke="#86EFAC" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M290 215 L315 215" stroke="#FCA5A5" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M290 225 L330 225" stroke="#60A5FA" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M290 235 L318 235" stroke="#86EFAC" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="378" y="195" width="4" height="8" rx="1" fill="#60A5FA" class="blink"/>
+
+<!-- Name tag -->
+<rect x="230" y="450" width="220" height="24" rx="12" fill="#1E293B"/>
+<text x="340" y="467" text-anchor="middle" font-family="monospace" font-size="11" fill="#94A3B8">@shreyas · full stack · iOS</text>
+</svg>
