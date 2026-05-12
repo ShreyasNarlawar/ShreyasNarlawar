@@ -24,7 +24,7 @@ I am passionate about solving real-world problems through technology and continu
 
 <h2 align="left">⚔ Tech Stack & Skills</h2>
 
-<img align="right" height="350" src="https://github.com/Abhinav-Muley/Abhinav-Muley/blob/main/Animation%20-%201709204641157%20(1)%20(1).gif?raw=true" />
+<img align="right" height="350" src="shreyas_avatar.svg" />
 
 <h3 align="left">💻 Languages</h3>
 
