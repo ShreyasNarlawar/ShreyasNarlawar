@@ -120,7 +120,7 @@ Java • JavaFX • Firebase • Multi-threading
   LinkedIn
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" height="24" alt="GitHub logo" />
