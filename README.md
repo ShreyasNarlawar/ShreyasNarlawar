@@ -64,7 +64,7 @@ Agile • Scrum • SDLC • OOP • MVC • Multi-threading
 
 <h2 align="left">💼 Experience</h2>
 
-<h3 align="left">iOS Developer Intern — Siddhatech Software Solutions</h3>
+<h3 align="left">Software Developer  — Siddhatech Software Solutions</h3>
 
 <p align="left">
 📍 Pune, Maharashtra <br>
