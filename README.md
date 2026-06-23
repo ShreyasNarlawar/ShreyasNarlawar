@@ -68,7 +68,6 @@ Agile • Scrum • SDLC • OOP • MVC • Multi-threading
 
 <p align="left">
 📍 Pune, Maharashtra <br>
-📅 Apr 2025 – Aug 2025
 </p>
 
 <ul>
